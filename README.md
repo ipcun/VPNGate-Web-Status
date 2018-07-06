@@ -1,0 +1,2 @@
+# VPNGate-Web-Status
+VPNGate
